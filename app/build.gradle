@@ -40,4 +40,8 @@ dependencies {
 
     //RxBindings
     implementation 'com.jakewharton.rxbinding:rxbinding-appcompat-v7:0.4.0'
+
+    //ButterKnife
+    implementation 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 }
